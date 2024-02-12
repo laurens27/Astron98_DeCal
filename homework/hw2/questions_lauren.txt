@@ -1,0 +1,19 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+cd --> move to a directory
+ls --> see the contents of the directory you are in
+mv --> move a file 
+ssh --> access someone else's files
+My computer terminal is in bash. 
+
+2. Do you have pets? What kind?
+Yes! Two dogs (a golden retriever and a Havanese)and a horse! 
+
+3. If you run across an error, what would your first course of action be?
+Read the error message and/or look it up!
+
+4. Funniest thing that happened to you in high school.
+On a school trip to Chile, my whole class simultaneously got flipped in our kayaks as we were going through some rapids!
+
+5. What is a python script? (Keep it simple)
+It is a file that contains code. It can be run in the command line. Python scripts end in .py
+
